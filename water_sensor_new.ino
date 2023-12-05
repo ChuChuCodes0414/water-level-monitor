@@ -1,6 +1,6 @@
 /*  
-
-
+This code makes use of an ultrasonic sensor to monitor water level via distance and calculated velocity.
+The constants for detection section (velocityMax, distanceMax, distanceMin) can all be configured and change on a needed basis.
 */
  
 // Include the Necessary library
